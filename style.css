@@ -99,7 +99,7 @@ a:visited {
   text-align: center;
 }
 .header-content * {
-  margin: 0.8rem;
+  margin: 0.8rem 2rem;
 }
 .header-content :nth-child(2) {
   font-family: WorkSans-Light;
